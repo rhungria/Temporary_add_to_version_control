@@ -14,3 +14,4 @@ LaTeX: pdfLaTeX
 
 print "Testing linking to RStudio"
 
+print "Test for linking to RStudio"
